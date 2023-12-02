@@ -137,7 +137,7 @@ public static void urunTanimla ()  {
         System.out.println("Urun id: ");
         int  findId = input.nextInt();
 
-        if(//urunListesi)
+      //  if(urunListesi)
 
         System.out.println("urun girisinin sayisini giriniz");
 
