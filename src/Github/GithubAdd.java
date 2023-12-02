@@ -6,7 +6,7 @@ public class GithubAdd {
 
         System.out.println("yeni kod");
 
-
+        System.out.println("ikinci degisiklik");
 
     }
 
