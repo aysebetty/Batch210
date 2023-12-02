@@ -20,8 +20,7 @@ public class Arac {
 
   public void countPrim(int term) {
 
-    //tipe gore hesaplama yapalim
-
+    //tipe gore hesaplama
 
     switch(this.type)  {  //switch
 
